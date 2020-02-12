@@ -1,4 +1,4 @@
-Django==2.1.1
+Django==2.2.10
 django_select2
 django-bootstrap-datepicker-plus
 
